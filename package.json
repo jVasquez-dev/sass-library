@@ -1,0 +1,18 @@
+{
+  "name": "styles-library",
+  "version": "1.0.0",
+  "description": "Styles Library With SASS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "author": "Jorge Vasquez",
+  "license": "ISC"
+}
